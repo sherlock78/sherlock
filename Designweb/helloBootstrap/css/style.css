@@ -1,0 +1,42 @@
+.rouge{
+    /* on fait jamais ça */
+    height:400px;
+    /* mettre une hauteur fixe en bootstrap */
+    background-color: red;
+}
+
+.bleu{
+    height:400px;
+    background-color: blue;
+}
+
+.vert{
+    height:400px;
+    background-color: lightgreen;
+}
+
+.jaune{
+    height:400px;
+    background-color: yellow;
+}
+
+.bg{
+    height:1080px;
+    background-image: url("../img/download.jpg");
+    background-size: cover;
+}
+
+h1,h3{
+    color: white;
+}
+
+.white{
+    height: 300px;
+    background-color: white;
+}
+
+hr{
+    max-width: 50px;
+    border-width: 3px;
+    border-color: #f7f7f7;
+}
